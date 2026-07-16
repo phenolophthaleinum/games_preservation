@@ -7,5 +7,8 @@
    - copy protection check
 ### Disc info
 - CD1:
-  - no copy protection
+  - contents encrypted
+  - StarForce
 ### Working on
+> [!IMPORTANT]
+> StarForce games are highly likely to be completely unable to run without NOCD/DVD cracks under modern systems.

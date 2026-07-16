@@ -1,5 +1,5 @@
-# Colin McRae Rally 2.0
-## CDProjekt release
+# Ford Racing 2
+## PL release
 ### Info
 1x CD version
 ### Disc info
@@ -9,6 +9,3 @@
 1. MPF (3.3.3):
    - copy protection check
 ### Working on
-- Windows
-- Linux
-  - Lutris
